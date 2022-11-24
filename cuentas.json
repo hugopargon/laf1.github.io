@@ -1,0 +1,13 @@
+{
+    "cuentas":[
+            {
+                "nombre":"admin",
+                "mail":"admin",
+                "contrasena":"admin"
+            },
+            {
+                "nombre":"hugo",
+                "mail":"hugo@mail.com",
+                "contrasena":"hugo"
+            }
+    ,{"nombre":"prueba","contrasena":"hugo","mail":"hugo@hugo.hugo"},{"nombre":"ejemplo2","contrasena":"prueba","mail":"prueba@prueba.com"}]}
